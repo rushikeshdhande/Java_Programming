@@ -5,7 +5,7 @@
 // Input :         int (num)
 // Output :        void (Prints the factors)
 // Author :        Rushikesh baban dhande
-// Date :          31/10/2025
+// Date :          01/11/2025
 //
 ///////////////////////////////////////////////////////////
 

@@ -5,7 +5,7 @@
 // Input :         int (n)
 // Output :        void (Prints the numbers)
 // Author :        Rushikesh baban dhande
-// Date :          31/10/2025
+// Date :          01/11/2025
 //
 ///////////////////////////////////////////////////////////
 

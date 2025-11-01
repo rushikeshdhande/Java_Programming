@@ -5,7 +5,7 @@
 // Input :         int (base), int (exponent)
 // Output :        void  
 // Author :        Rushikesh baban dhande
-// Date :          31/10/2025
+// Date :          01/11/2025
 //
 //////////////////////////////////////////////////////////////
 
